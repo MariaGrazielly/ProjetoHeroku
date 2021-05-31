@@ -1,2 +1,2 @@
 <?php
-echo "Praticando banco de dados";
+echo "Praticando BD";
